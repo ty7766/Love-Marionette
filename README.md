@@ -10,8 +10,13 @@
 
 <br/>
 
-## 📸 Screenshots
+## 📸 Screenshots (일부 화면)
 <br/>
+<img width="2108" height="1185" alt="image" src="https://github.com/user-attachments/assets/b9c86bef-d157-4a45-aaf8-ae4c1134f18e" />
+<img width="2185" height="1251" alt="image" src="https://github.com/user-attachments/assets/a3d4e47d-86b4-4a90-8c36-0ec63fe900da" />
+<img width="1800" height="1167" alt="image" src="https://github.com/user-attachments/assets/417f7ece-23dd-4dc9-bf53-6f1f248d08a0" />
+<img width="2168" height="1206" alt="image" src="https://github.com/user-attachments/assets/b6ccee34-ff7e-4fec-808a-2d5a488d6259" />
+
 
 ## 📝 프로젝트 소개 (Introduction)
 이 프로젝트는 **최신 생성형 AI(Llama-3)**를 활용하여, 실제 로맨스 스캠 범죄자들의 패턴을 학습한 NPC '에로스'와 대화하며 스캠 범죄를 식별하고 대처하는 능력을 기르는 **교육용 시뮬레이션 게임**입니다.
